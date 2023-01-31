@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Juan Victor
 
-- 🔭 Sou back-end, mas às vezes me aventuro no front-end
+- 🔭 Back-end, mas às vezes me aventuro no front-end
 - 🌱 Cursando sistemas para internet
 
 <div style="display: inline_block"><br>
