@@ -1,4 +1,4 @@
-## Olá! Eu sou Juan Victor
+## Olá! Eu sou o Juan Victor
 
 - 🔭 Sou back-end, mas às vezes me aventuro no front-end
 - 🌱 Cursando sistemas para internet
