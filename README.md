@@ -1,9 +1,12 @@
-## 👋 Olá, eu sou o Juan Victor
+## 👋 Olá, eu sou o Juan Oliveira
 
-Desenvolvedor **Back-end** com foco em **PHP e Laravel**, atuando na construção, manutenção e evolução de **sistemas web e APIs REST**.  
-Experiência prática com aplicações em produção, integração de serviços, automação de processos e uso de **Docker** para ambientes padronizados.
+Sou **Desenvolvedor Full Stack** com experiência no desenvolvimento, manutenção e escalabilidade de **plataformas web de alta disponibilidade**.
 
-🎯 Foco em código limpo, performance, segurança e soluções escaláveis.
+Trabalho principalmente com **PHP, Laravel, Java, Vue.js, MySQL e Docker**, participando de todo o ciclo de vida do software, desde o desenho da solução, modelagem de dados e integrações de APIs até deploy e evolução em produção.
+
+Atualmente também desenvolvo **soluções com automação e Inteligência Artificial**, aplicando LLMs e fluxos automatizados para resolver problemas reais de negócio.
+
+🎯 Foco em arquitetura limpa, performance, segurança, escalabilidade e código sustentável.
 
 ---
 
@@ -11,41 +14,23 @@ Experiência prática com aplicações em produção, integração de serviços,
 
 **Back-end**
 - PHP | Laravel
+- Java
 - APIs REST
-- MySQL | PostgreSQL
+
+**Front-end**
+- Vue.js
+- JavaScript | HTML | CSS
+
+**Banco de Dados**
+- MySQL
+- PostgreSQL
 
 **DevOps & Versionamento**
 - Docker
 - Git | GitHub
 
-**Front-end**
-- Vue.js
-- HTML | CSS | JavaScript
-
 **Automação & IA**
-- n8n | Make
-- LLMs (OpenAI)
-- Integrações via API
-
----
-
-### 💼 Experiência Profissional
-
-Atualmente atuo como **Desenvolvedor Back-end**, participando da manutenção e evolução de uma **plataforma web educacional**, com foco em:
-- Correção de bugs e refatoração de código
-- Desenvolvimento de novas funcionalidades
-- Integração de APIs
-- Otimização de consultas e melhoria de performance
-
-Também desenvolvo **projetos pessoais com automação e Inteligência Artificial**, aplicando soluções práticas para problemas reais.
-
----
-
-### 📫 Contato
-
-<a href="mailto:juanliira11@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/juan-oliveira-75675a217/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- n8n | Make (Integromat)
+- LLMs
+- Automação de workflows
+- IA conversacional
